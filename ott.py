@@ -1,5 +1,6 @@
 import requests
 import json
+import base64
 
 CHANNEL_LIST = {
     'J': {
