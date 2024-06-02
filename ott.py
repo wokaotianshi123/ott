@@ -5,7 +5,7 @@ CHANNEL_LIST = {
     'J': {
         'name': '翡翠台',
         'license': '0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480',
-        'logo': 'https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
+        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
         'license_key': 'https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480'
     },
     'JUHD': {
