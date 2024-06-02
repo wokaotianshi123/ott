@@ -124,8 +124,9 @@ def get_mytvsuper(channel):
     m3u_content = f"#EXTINF:-1 tvg-id=\"{channel}\" tvg-logo=\"{channel_logo}\",{channel_name}\n"
     m3u_content += "#KODIPROP:inputstream.adaptive.manifest_type=mpd\n"
     m3u_content += "#KODIPROP:inputstream.adaptive.license_type=clearkey\n"
-    m3u_content += f"#KODIPROP:inputstream.adaptive.license_key=http://wokaotianshi123.byethost18.com/ott.php?url=" +  base64.b64encode(
+    # m3u_content += f"#KODIPROP:inputstream.adaptive.license_key=http://wokaotianshi123.byethost18.com/ott.php?url=" +  base64.b64encode(
                         license_key.encode('utf-8')).decode('utf-8')   + "\n"
+    m3u_content += f"#KODIPROP:inputstream.adaptive.license_key={license_key}\n"
     m3u_content += f"{play_url}\n"
 
     return m3u_content
