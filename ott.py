@@ -69,11 +69,11 @@ CHANNEL_LIST = {
         'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png',
         'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3'
     },
-    'CTVC': {
-        'name': '千禧經典台',
-        'license': '6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78',
+    'CMAM': {
+        'name': '美亞電影台',
+        'license': 'c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b',
         'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/千禧經典台.png',
-        'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=6c308490b3198b62a988917253653692&key=660578b8966fe8012ad51b9aae7a5d78'
+        'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=c5d6f2afbd6b276312b0471a653828e1&key=ecbbb4a3ffa2200ae69058e20e71e91b'
     }
 }
 
