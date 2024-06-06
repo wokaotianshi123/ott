@@ -128,8 +128,8 @@ def get_mytvsuper(channel):
     # m3u_content += f"#KODIPROP:inputstream.adaptive.license_key=http://wokaotianshi123.byethost18.com/ott.php?url=" +  base64.b64encode(
                         #license_key.encode('utf-8')).decode('utf-8')   + "\n"
     m3u_content += f"#KODIPROP:inputstream.adaptive.license_key={license_key}\n"
-    m3u_content += f"{play_url}\n"
-
+    # m3u_content += f"{play_url}\n"
+    m3u_content += f"http://wztz.wofuck.us.kg/{play_url}\n"
     return m3u_content
 
 # 创建或打开文件用于写入
