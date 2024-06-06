@@ -69,11 +69,11 @@ CHANNEL_LIST = {
         'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png',
         'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3'
     },
-    'EVT1': {
-        'name': 'myTV SUPER直播足球1台',
-        'license': 'e8ca7903e25450d85cb32b3057948522:d5db5c03608f5f6c8a382c6abcb829e4',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png',
-        'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=e8ca7903e25450d85cb32b3057948522&key=d5db5c03608f5f6c8a382c6abcb829e4'
+    'CTVC': {
+        'name': '千禧經典台',
+        'license': '6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78',
+        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/千禧經典台.png',
+        'license_key': 'https://ott.tianshideyou.cloudns.org/api/results.php?keyid=6c308490b3198b62a988917253653692&key=660578b8966fe8012ad51b9aae7a5d78'
     }
 }
 
