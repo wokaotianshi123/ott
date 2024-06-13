@@ -118,7 +118,7 @@ def get_mytvsuper(channel):
         return '未找到播放地址'
 
     play_url = play_url.split('&p=')[0]
-
+    play_url = play_url.replace('http://', 'http/')
     license_key = CHANNEL_LIST[channel]['license_key']
     channel_name = CHANNEL_LIST[channel]['name']
     channel_logo = CHANNEL_LIST[channel]['logo']
@@ -128,7 +128,8 @@ def get_mytvsuper(channel):
     # m3u_content += f"#KODIPROP:inputstream.adaptive.license_key=http://wokaotianshi123.byethost18.com/ott.php?url=" +  base64.b64encode(
                         #license_key.encode('utf-8')).decode('utf-8')   + "\n"
     m3u_content += f"#KODIPROP:inputstream.adaptive.license_key={license_key}\n"
-    m3u_content += f"{play_url}\n"
+   # m3u_content += f"{play_url}\n"
+    m3u_content += f"https://wztz.wokaotianshi.eu.org/wztz/{play_url}\n"
 
     return m3u_content
 
