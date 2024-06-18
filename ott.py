@@ -129,7 +129,7 @@ def get_mytvsuper(channel):
                         #license_key.encode('utf-8')).decode('utf-8')   + "\n"
     m3u_content += f"#KODIPROP:inputstream.adaptive.license_key={license_key}\n"
    # m3u_content += f"{play_url}\n"
-    m3u_content += f"https://wztz.wokaotianshi.eu.org/wztz/{play_url}\n"
+    m3u_content += f"https://cfpgwztz.wofuck.rr.nu/wztz/{play_url}\n"
 
     return m3u_content
 
@@ -137,7 +137,7 @@ def get_mytvsuper(channel):
 with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
     # 写入 M3U 文件的头部
    # m3u_file.write("#EXTM3U url-tvg=\"http://wztz.wofuck.us.kg/https://xmltv.bph.workers.dev\"\n")
-    m3u_file.write("#EXTM3U url-tvg=\"https://wztz.wokaotianshi.eu.org/wztz/http/xmltv.bph.workers.dev\"\n")
+    m3u_file.write("#EXTM3U url-tvg=\"https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev\"\n")
 
     # 遍历所有频道并写入每个频道的 M3U 内容
     for channel_code in CHANNEL_LIST.keys():
