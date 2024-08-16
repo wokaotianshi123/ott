@@ -3,55 +3,55 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=0958b9c657622c465a6205eb2252b8ed&key=2d2fd7b1661b1e28de38268872b48480
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=56b8fac008ff0143b937c8264f19df63&ext_start_limit=1723856433&int_start_limit=1723856433&ts=1723856433&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=7399cb5c68b469d5c9937fd67d67746f&ext_start_limit=1723875490&int_start_limit=1723875490&ts=1723875490&c=164951062
 #EXTINF:-1 tvg-id="JUHD" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=2c045f5adb26d391cc41cd01f00416fa&key=fc146771a9b096fc4cb57ffe769861be
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=1cf3e8af607d0ae7dcb1cbf3d7994c7c&ext_start_limit=1723856433&int_start_limit=1723856433&ts=1723856433&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=bde97eb4a0b4a7166aa0aabf09676c04&ext_start_limit=1723875490&int_start_limit=1723875490&ts=1723875490&c=164951062
 #EXTINF:-1 tvg-id="B" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",TVBplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=56603b65fa1d7383b6ef0e73b9ae69fa&key=5d9d8e957d2e45d8189a56fe8665aaaa
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=4b2f792c434b2f6d8c776441352e2186&ext_start_limit=1723856434&int_start_limit=1723856434&ts=1723856434&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=4efdee04639017832a1c1fee697754d9&ext_start_limit=1723875490&int_start_limit=1723875490&ts=1723875490&c=164951062
 #EXTINF:-1 tvg-id="P" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=e04facdd91354deee318c674993b74c1&key=8f97a629de680af93a652c3102b65898
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=b0fb863a5081fbe4e7ba49eb72e7a751&ext_start_limit=1723856435&int_start_limit=1723856435&ts=1723856435&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=676dd12bd756c85ed5b315a60a8a3f31&ext_start_limit=1723875490&int_start_limit=1723875490&ts=1723875490&c=164951062
 #EXTINF:-1 tvg-id="CWIN" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=0737b75ee8906c00bb7bb8f666da72a0&key=15f515458cdb5107452f943a111cbe89
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=5126eef0180b409df705ed447f1a07a5&ext_start_limit=1723856435&int_start_limit=1723856435&ts=1723856435&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=98a3821114d96422b71bab887146bf81&ext_start_limit=1723875491&int_start_limit=1723875491&ts=1723875491&c=164951062
 #EXTINF:-1 tvg-id="TVG" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=8fe3db1a24969694ae3447f26473eb9f&key=5cce95833568b9e322f17c61387b306f
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=e8fa67c0bef9adf66a718475a33fe526&ext_start_limit=1723856435&int_start_limit=1723856435&ts=1723856435&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=6e085399779a40de020dbf79b7dd5a67&ext_start_limit=1723875491&int_start_limit=1723875491&ts=1723875491&c=164951062
 #EXTINF:-1 tvg-id="C" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=90a0bd01d9f6cbb39839cd9b68fc26bc&key=51546d1f2af0547f0e961995b60a32a1
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=5acb9e98e008e72163062b6cfed43359&ext_start_limit=1723856436&int_start_limit=1723856436&ts=1723856436&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=a9222a68a7240d84f113faa99c1131aa&ext_start_limit=1723875491&int_start_limit=1723875491&ts=1723875491&c=164951062
 #EXTINF:-1 tvg-id="CTVE" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png",娱乐新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=6fa0e47750b5e2fb6adf9b9a0ac431a3&key=a256220e6c2beaa82f4ca5fba4ec1f95
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=d0571c4b25e4724f48e260066648cfd0&ext_start_limit=1723856436&int_start_limit=1723856436&ts=1723856436&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=5d1e87b5b9ba8650342634afea72fe94&ext_start_limit=1723875492&int_start_limit=1723875492&ts=1723875492&c=164951062
 #EXTINF:-1 tvg-id="PCC" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",凤凰卫视中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=7bca0771ba9205edb5d467ce2fdf0162&key=eb19c7e3cea34dc90645e33f983b15ab
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=4aa0e6132dd437dbe02049f81a782858&ext_start_limit=1723856436&int_start_limit=1723856436&ts=1723856436&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=1ae43a03a6f296f5965efcc32912a3ca&ext_start_limit=1723875492&int_start_limit=1723875492&ts=1723875492&c=164951062
 #EXTINF:-1 tvg-id="PIN" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png",凤凰卫视资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=83f7d313adfc0a5b978b9efa0421ce25&key=ecdc8065a46287bfb58e9f765e4eec2b
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=b12a48331a914ef2eefc936ea54d7247&ext_start_limit=1723856437&int_start_limit=1723856437&ts=1723856437&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=5bc648797427d834f9fd8c1bb18549d2&ext_start_limit=1723875492&int_start_limit=1723875492&ts=1723875492&c=164951062
 #EXTINF:-1 tvg-id="PHK" tvg-logo="https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png",凤凰卫视香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ott.tianshideyou.cloudns.org/api/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3
-https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=c220a442ccaaeff7841efcef3e051c96&ext_start_limit=1723856437&int_start_limit=1723856437&ts=1723856437&c=164951062
+https://cfpgwztz.wofuck.us.kg/wztz/http/edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=c46b05221e4f37f92059232412803c18&ext_start_limit=1723875492&int_start_limit=1723875492&ts=1723875492&c=164951062
 请求失败
