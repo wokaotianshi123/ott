@@ -68,12 +68,6 @@ CHANNEL_LIST = {
         'license': 'cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3',
         'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png',
         'license_key': 'https://ott.tianshideyou.eu.org/api/results.php?keyid=cde62e1056eb3615dab7a3efd83f5eb4&key=b8685fbecf772e64154630829cf330a3'
-    },
-    'CMAM': {
-        'name': '美亞電影台',
-        'license': 'c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b',
-        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/千禧經典台.png',
-        'license_key': 'https://ott.tianshideyou.eu.org/api/results.php?keyid=c5d6f2afbd6b276312b0471a653828e1&key=ecbbb4a3ffa2200ae69058e20e71e91b'
     }
 }
 
@@ -146,3 +140,4 @@ with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
         m3u_file.write(m3u_content)
 
 print("所有频道的 M3U 播放列表已生成并保存为 'mytvfree.m3u'。")
+
