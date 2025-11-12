@@ -6,73 +6,73 @@ CHANNEL_LIST = {
     'J': {
         'name': '翡翠台',
         'license': '0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"LS/XsWYbHijeOCaIcrSEgA", "kid":"CVi5xldiLEZaYgXrIlK47Q" } ], "type":"temporary" }'
     },
     'JUHD': {
         'name': '翡翠台 4K',
         'license': '2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"/BRncamwlvxMtX/+dphhvg", "kid":"LARfWtsm05HMQc0B8AQW+g" } ], "type":"temporary" }'
     },
     'B': {
         'name': 'TVBplus',
         'license': '56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"XZ2OlX0uRdgYmlb+hmWqqg", "kid":"VmA7Zfodc4O27w5zua5p+g" } ], "type":"temporary" }'
     },
     'P': {
         'name': '明珠台',
         'license': 'e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"j5emKd5oCvk6ZSwxArZYmA", "kid":"4E+s3ZE1Te7jGMZ0mTt0wQ" } ], "type":"temporary" }'
     },
     'CWIN': {
         'name': 'Super Free',
         'license': '0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"FfUVRYzbUQdFL5Q6ERy+iQ", "kid":"Bze3XuiQbAC7e7j2ZtpyoA" } ], "type":"temporary" }'
     },
     'TVG': {
         'name': '黄金翡翠台',
         'license': '8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"XM6VgzVoueMi8XxhOHswbw", "kid":"j+PbGiSWlpSuNEfyZHPrnw" } ], "type":"temporary" }'
     },
     'C': {
         'name': '无线新闻台',
         'license': '90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"UVRtHyrwVH8OlhmVtgoyoQ", "kid":"kKC9Adn2y7OYOc2baPwmvA" } ], "type":"temporary" }'
     },
     'CTVE': {
         'name': '娱乐新闻台',
         'license': '6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"olYiDmwr6qgvTKX7pOwflQ", "kid":"b6Dkd1C14vtq35uaCsQxow" } ], "type":"temporary" }'
     },
     'PCC': {
         'name': '凤凰卫视中文台',
         'license': '7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"6xnH486jTckGReM/mDsVqw", "kid":"e8oHcbqSBe211GfOL98BYg" } ], "type":"temporary" }'
     },
     'PIN': {
         'name': '凤凰卫视资讯台',
         'license': '83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"7NyAZaRih7+1jp92Xk7sKw", "kid":"g/fTE638CluXi576BCHOJQ" } ], "type":"temporary" }'
     },
     'PHK': {
         'name': '凤凰卫视香港台',
         'license': 'cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }'
     },
     'CMAM': {
         'name': '美亞電影台',
         'license': 'c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b',
-        'logo': 'https://gitjs.wokaotianshi123.cloudns.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/千禧經典台.png',
+        'logo': 'https://gitjs.tianshideyou.eu.org/https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/千禧經典台.png',
         'license_key': '{ "keys":[ { "kty":"oct", "k":"uGhfvs93LmQVRjCCnPMwow", "kid":"zeYuEFbrNhXat6Pv2D9etA" } ], "type":"temporary" }'
     }
 }
@@ -118,7 +118,7 @@ def get_mytvsuper(channel):
         return '未找到播放地址'
 
     play_url = play_url.split('&p=')[0]
-    play_url = play_url.replace('http://', 'http/')
+    #play_url = play_url.replace('http://', 'http/')
     license_key = CHANNEL_LIST[channel]['license_key']
     channel_name = CHANNEL_LIST[channel]['name']
     channel_logo = CHANNEL_LIST[channel]['logo']
@@ -129,7 +129,7 @@ def get_mytvsuper(channel):
                         #license_key.encode('utf-8')).decode('utf-8')   + "\n"
     m3u_content += f"#KODIPROP:inputstream.adaptive.license_key={license_key}\n"
    # m3u_content += f"{play_url}\n"
-    m3u_content += f"https://cfpgwztz.wofuck.rr.nu/wztz/{play_url}\n"
+    m3u_content += f"https://cfkua.wokaotianshi.eu.org/{play_url}\n"
 
     return m3u_content
 
@@ -137,7 +137,7 @@ def get_mytvsuper(channel):
 with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
     # 写入 M3U 文件的头部
    # m3u_file.write("#EXTM3U url-tvg=\"http://wztz.wofuck.us.kg/https://xmltv.bph.workers.dev\"\n")
-    m3u_file.write("#EXTM3U url-tvg=\"https://cfpgwztz.wofuck.rr.nu/wztz/http/xmltv.bph.workers.dev\"\n")
+    m3u_file.write("#EXTM3U url-tvg=\"https://cfkua.wokaotianshi.eu.org/https://xmltv.bph.workers.dev\"\n")
 
     # 遍历所有频道并写入每个频道的 M3U 内容
     for channel_code in CHANNEL_LIST.keys():
@@ -145,3 +145,4 @@ with open('mytvfree.m3u', 'w', encoding='utf-8') as m3u_file:
         m3u_file.write(m3u_content)
 
 print("所有频道的 M3U 播放列表已生成并保存为 'mytvfree.m3u'。")
+
