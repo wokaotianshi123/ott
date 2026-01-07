@@ -1,0 +1,41 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download M3U
+        run: |
+          curl -L "https://raw.githubusercontent.com/tongxunlu/super/refs/heads/main/mytvsuper.m3u" -o mytvsuper.m3u
+
+      - name: Apply Proxy Prefix
+        run: |
+          # Replace target domains with proxied versions
+          sed -i 's|http://edgeware-live|https://cfkua.wokaotianshi.eu.org/http://edgeware-live|g' mytvsuper.m3u
+          sed -i 's|https://edgeware-live|https://cfkua.wokaotianshi.eu.org/https://edgeware-live|g' mytvsuper.m3u
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are changes before committing
+          git add mytvsuper.m3u
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: update playlist via action [skip ci]"
+            git push
+          fi
