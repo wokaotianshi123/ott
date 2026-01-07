@@ -20,11 +20,11 @@ jobs:
         run: |
           curl -L "https://raw.githubusercontent.com/tongxunlu/super/refs/heads/main/mytvsuper.m3u" -o mytvsuper.m3u
 
-      - name: Apply Proxy Prefix
-        run: |
+     # - name: Apply Proxy Prefix
+       # run: |
           # Replace target domains with proxied versions
-          sed -i 's|http://edgeware-live|https://cfkua.wokaotianshi.eu.org/http://edgeware-live|g' mytvsuper.m3u
-          sed -i 's|https://edgeware-live|https://cfkua.wokaotianshi.eu.org/https://edgeware-live|g' mytvsuper.m3u
+         # sed -i 's|http://edgeware-live|https://cfkua.wokaotianshi.eu.org/http://edgeware-live|g' mytvsuper.m3u
+        #  sed -i 's|https://edgeware-live|https://cfkua.wokaotianshi.eu.org/https://edgeware-live|g' mytvsuper.m3u
 
       - name: Commit and Push
         run: |
