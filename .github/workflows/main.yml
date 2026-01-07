@@ -1,10 +1,29 @@
-name: genngxin
+name: 更新2
 on:
   # push:
    schedule:
-    - cron: '0 */6 * * *'
+    #- cron: '0 */6 * * *'
+     # 每小时的0, 20, 40分钟
+    #- cron: '0,10,20,30,40,50 * * * *'
+    #东八区每小时执行
+    #- cron: '40 * * * *'
+    #东八区每6小时执行
+    #- cron: '0 2,8,14,20 * * *'
+    #东八区每天5点(utc每天21点)执行
+    #- cron: '0 21 * * *'
+    #东八区每天3点(utc每天19点)执行
+    - cron: '0 19 * * *'
+    
+    
    workflow_dispatch:
- 
+
+env:
+  #设置为东八区
+  TZ: Asia/Shanghai
+  MYTVSUPER_API_TOKEN_VIP: ${{ secrets.MYTVSUPER_API_TOKEN_VIP }}
+  MYTVSUPER_API_TOKEN_MY: ${{ secrets.FREETOKEN2 }}
+  MYTVSUPER_API_TOKEN_MY_fuck: ${{ secrets.MYTVSUPER_API_TOKEN_MY }}
+  
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -25,7 +44,7 @@ jobs:
       - name: Install dependencies
         run: pip install opencv-python requests 
       - name: Run gengxinsichuanip
-        run: python ${{ github.workspace }}/ott.py
+        run: python ${{ github.workspace }}/ott2.py
 
      
       - name: Commit results
@@ -36,6 +55,8 @@ jobs:
             git add *.m3u
             git commit -m "Automatic update"
             git push
+            echo  'test var-2024-08-16'
+            echo  ${{ vars.MYTVSUPER_API_TOKEN_VIP }}
             else
               echo "No changes detected, skipping commit."
             fi
